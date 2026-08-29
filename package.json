@@ -1,0 +1,10 @@
+{
+  "name": "agent-cost-optimizer",
+  "version": "1.0.0",
+  "description": "Automatic token arbitrage and failover middleware for AI agent tool calls",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["openai", "anthropic", "deepseek", "mcp", "agent-middleware", "proxy"],
+  "author": "Stealth AI",
+  "license": "MIT"
+}
